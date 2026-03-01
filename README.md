@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💡 About Me:
 
 🙋🏻‍♂️ My fullname is Botir Qakhramoniy. You can call me Botir
 
