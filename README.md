@@ -54,6 +54,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=justBotir&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justBotir&theme=tokyonight&hide_border=true&layout=compact)
 
+## ⏱ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=justBotir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
