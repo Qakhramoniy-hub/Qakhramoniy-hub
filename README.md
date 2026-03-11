@@ -50,20 +50,20 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Qakhramoniy-hub&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qakhramoniy-hub&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=justBotir&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=justBotir&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justBotir&theme=tokyonight&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Qakhramoniy-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=justBotir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qakhramoniy-hub/Qakhramoniy-hub/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qakhramoniy-hub/Qakhramoniy-hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Qakhramoniy-hub/Qakhramoniy-hub/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justBotir/justBotir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justBotir/justBotir/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/justBotir/justBotir/output/github-snake.svg" />
 </picture>
