@@ -1,7 +1,7 @@
 # Hi 👋 I'm Botir
 
-💻 Software Engineer
-🌍 Based in Uzbekistan
+💻 Software Engineer<br>
+🌍 Based in Uzbekistan<br>
 📬 Open to opportunities
 
 ## 🌐 Connect with me
