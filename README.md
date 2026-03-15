@@ -1,9 +1,8 @@
 # Hi 👋 I'm Botir
 
-💻 Software Engineer from Uzbekistan (Khorezm) <br>
-🚀 Passionate about building scalable backend systems and modern web applications<br>
-📚 Interested in system design, backend architecture, and problem-solving<br>
-🎯 Currently focused on improving my skills and building real-world projects<br>
+💻 Backend Engineer · NestJS, PostgreSQL, Docker
+🌍 Based in Uzbekistan
+📬 Open to opportunities
 
 ## 🌐 Connect with me
 
@@ -35,10 +34,6 @@
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=radical" />
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=justBotir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
