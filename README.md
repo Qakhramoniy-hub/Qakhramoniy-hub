@@ -56,8 +56,9 @@
 
 ## ⏱ WakaTime Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justBotir&layout=compact&theme=radical" />
+</p>
 
 ## 🏆 GitHub Trophies
 
